@@ -29,14 +29,14 @@ I decided to summarise my skills in the box below
 -Python (Creating functions)
 -R Studio (Statistical Analysis)
 
-# Computer Skillz 
+## Team Skillz 
 -Strong verbal and written communication skills
 -Conflict resolution
 -Rapport-building and listening
 -Decision-making
 -Organizational and planning skills
 
-# Computer Skillz
+### Personal Skillz
 -Ability to multi-task and prioritize work so that concurrent projects can be completed in an efficient and timely manner
 -Strong analytical skills to analyze and construct appropriate tools to a given Data Set
 -Efficient at managing my time
