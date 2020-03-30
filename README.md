@@ -1,10 +1,18 @@
-Welcome to Christopher Alemao's Page
+Welcome to Christopher Alemao's Web Page! 
 
-#Introduction
+#Intro
+
 Making a word or PDF document about my resume was boring, so I wanted to create a webpage that will bring life to the words!
+
 I enjoy creating "stuff" and I think the process of creativity is found in the "doing". 
+
 Coding allows me to explore different solutions to problems, and although I am not an expert, I strive to be better each and everyday! 
+
 I hope to use Machine Learning to deliver solutions that enable smarter decisions and more effective outcomes , so that customers can overcome obstacles, achieve their ideas and pursue their dreams. 
+
+I hope you enjoy this webpage about myself as much as I did making it!
+
+-Chris
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
