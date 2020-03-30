@@ -14,24 +14,35 @@ I hope you enjoy this webpage about myself as much as I did making it!
 
 -Chris
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Skillz
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I decided to summarise my skills in the box below 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Computer Skillz
+-Microsoft Excel (Pivot Tables, Data Analysis)
+-Microsoft Power BI (Data Visualization)
+-Jupyter Notebook (Machine Learning Code)
+-Python (Creating functions)
+-R Studio (Statistical Analysis)
 
-1. Numbered
-2. List
+## Team Skillz  
+-Strong verbal and written communication skills
+-Conflict resolution
+-Rapport-building and listening
+-Decision-making
+-Organizational and planning skills
+
+### Personal Skillz 
+-Ability to multi-task and prioritize work so that concurrent projects can be completed in an efficient and timely manner
+-Strong analytical skills to analyze and construct appropriate tools to a given Data Set
+-Efficient at managing my time
+-Hard worker
+-Postivie thinker 
+
 
 **Bold** and _Italic_ and `Code` text
 
